@@ -75,7 +75,7 @@
 //
 #define X_STOP_PIN         47   // E3
 //#define Y_STOP_PIN         20   // B0 SS
-#define Y_STOP_PIN         37   // Changed pin input to board (ystop to estop) for sd use and bootup
+#define Y_STOP_PIN         37   // E5 Changed pin input to board (ystop to estop) for sd use and bootup
 #define Z_STOP_PIN         36   // E4
 
 //
